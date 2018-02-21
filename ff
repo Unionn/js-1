@@ -1,0 +1,63 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<meta charset="UTF-8">
+		<title></title>
+	<head>
+	<script>
+		function myFunction()
+        {
+        var x=document.getElementById("fname");
+        x.value=x.value.toUpperCase();
+        }
+    <script>
+    <head>
+    <boby>
+            请输入正确账号：<input type="text" id="fname" onchange=()">
+    <script>
+		function myFunction()
+        {
+        var x=document.getElementById("fname");
+        x.value=x.value.toUpperCase();
+        }
+        <script>
+        <head>
+        <boby>
+    请输入正确密码：<input type="text" id="fname" onchange=()">
+         </script>
+	     </head>
+         <body>  
+<script type="text/javascript">
+function show_confirm()
+{
+var r=confirm("账号和密码都是123");
+if (r==true)
+  {
+  alert("输出正确");
+  }
+else 
+  {
+  alert("输出错误");
+  }
+}
+</script>
+</head>
+<body>
+<input type="button" onclick="show_confirm()" value="确定点击" />
+</body>
+</html>
+<script>
+<head>
+<boby>
+    var  w=fin("账号和密码都是123")
+if  （w==true）
+    {
+    	alert("账号和密码都是123")；
+    }
+else
+    {
+    document.getElementById("region").value="";
+    }
+<script>
+<head>
+<boby>
